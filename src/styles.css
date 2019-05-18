@@ -1,3 +1,7 @@
+body {
+  background: linear-gradient(47 deg, lime, purple);
+}
+
 .App {
   font-family: sans-serif;
   text-align: center;
