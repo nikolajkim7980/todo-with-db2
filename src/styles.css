@@ -1,5 +1,6 @@
 body {
-  background: linear-gradient(47 deg, lime, purple);
+  background: linear-gradient(47deg, lime, purple);
+  min-height: 100vh;
 }
 
 .App {
